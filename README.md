@@ -13,3 +13,4 @@ The output must be only the integer, but trailing newlines are OK. Other unavoid
 Using different versions of the same language is allowed (although obviously they'll have to print different numbers, so you'll need to fit a version check into the polyglot). However, you may not use a language feature that returns the language's version number. Repeating the exact same language is, obviously, impossible (as the program would have to deterministically print one of two different numbers).
 
 You don't have to use the previous answers as a guide to writing your own (you can rewrite the whole program if you like, as long as it complies with the spec); however, basing your answer mostly on a previous answer is allowed and probably the easiest way to make a solution.
+#kartoshka
